@@ -56,9 +56,9 @@
 
 ![Природа](https://s1.1zoom.ru/big7/76/Scenery_Sky_Mountains_356720.jpg)
 
-![alt text for image](///%D0%94%D0%97/images/Images86.jpg)
+![Водопад с ущельем](///%D0%94%D0%97/images/Images86.jpg)
 
-![alt text for image](///ДЗ\images\Images91.jpg)
+![Водопад](///ДЗ\images\Images91.jpg) 
 
 
 > git branch - выводим список веток в репозитории
